@@ -1,0 +1,1170 @@
+.desktop,
+.desktop * {
+  box-sizing: border-box;
+}
+.desktop {
+  background: #ffffff;
+  height: 2947px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 56px;
+  top: 882px;
+}
+.group-12 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 155px;
+  position: static;
+}
+.rectangle-9 {
+  background: var(--white, #ffffff);
+  border-style: solid;
+  border-color: var(--gray-5, #e0e0e0);
+  border-width: 1px;
+  width: 268px;
+  height: 155px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-11 {
+  width: 236px;
+  height: 112px;
+  position: static;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard {
+  color: var(--kq-black, #2c1500);
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 86px;
+  width: 236px;
+}
+.group-10 {
+  width: 201px;
+  height: 48px;
+  position: static;
+}
+.fast-delivery {
+  color: var(--akana-green, #156963);
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 22px;
+  width: 137px;
+}
+.track {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 16px;
+  top: 22px;
+  overflow: visible;
+}
+.group-13 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 155px;
+  position: static;
+}
+.rectangle-92 {
+  background: var(--white, #ffffff);
+  border-style: solid;
+  border-color: var(--gray-5, #e0e0e0);
+  border-width: 1px;
+  width: 268px;
+  height: 155px;
+  position: absolute;
+  left: 300px;
+  top: 0px;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard2 {
+  color: var(--kq-black, #2c1500);
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 316px;
+  top: 86px;
+  width: 236px;
+}
+.great-customer-service {
+  color: var(--akana-green, #156963);
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 380px;
+  top: 22px;
+  width: 137px;
+}
+.headphones-1 {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 316px;
+  top: 22px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  left: 2.91px;
+  top: 0px;
+  overflow: visible;
+}
+.group-14 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 155px;
+  position: static;
+}
+.rectangle-93 {
+  background: var(--white, #ffffff);
+  border-style: solid;
+  border-color: var(--gray-5, #e0e0e0);
+  border-width: 1px;
+  width: 268px;
+  height: 155px;
+  position: absolute;
+  left: 600px;
+  top: 0px;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard3 {
+  color: var(--kq-black, #2c1500);
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 616px;
+  top: 86px;
+  width: 236px;
+}
+.original-plants {
+  color: var(--akana-green, #156963);
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 680px;
+  top: 22px;
+  width: 137px;
+}
+.plant {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 616px;
+  top: 22px;
+  overflow: hidden;
+}
+.group2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 2.2px;
+  overflow: visible;
+}
+.group3 {
+  height: auto;
+  position: absolute;
+  left: 26.14px;
+  top: 6.52px;
+  overflow: visible;
+}
+.group4 {
+  height: auto;
+  position: absolute;
+  left: 8.72px;
+  top: 10.92px;
+  overflow: visible;
+}
+.group-15 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 155px;
+  position: static;
+}
+.rectangle-94 {
+  background: var(--white, #ffffff);
+  border-style: solid;
+  border-color: var(--gray-5, #e0e0e0);
+  border-width: 1px;
+  width: 268px;
+  height: 155px;
+  position: absolute;
+  left: 900px;
+  top: 0px;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard4 {
+  color: var(--kq-black, #2c1500);
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 916px;
+  top: 86px;
+  width: 236px;
+}
+.affordable-price {
+  color: var(--akana-green, #156963);
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 980px;
+  top: 22px;
+  width: 137px;
+}
+.money {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 916px;
+  top: 22px;
+  overflow: visible;
+}
+.bg-main {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.rectangle-22 {
+  background: #ffffff;
+  width: 672px;
+  height: 582px;
+  position: absolute;
+  left: 608px;
+  top: 0px;
+}
+.frame {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 519px;
+  position: absolute;
+  left: 685px;
+  top: 186px;
+}
+.kembang-flower-mantap {
+  color: var(--akana-green, #156963);
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 68px;
+  font-weight: 500;
+  position: relative;
+  width: 523px;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s {
+  color: var(--kq-black, #2c1500);
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 400;
+  opacity: 0.8;
+  position: relative;
+  width: 493px;
+}
+.group-71 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-26 {
+  background: #156963;
+  width: 260px;
+  height: 160px;
+  position: absolute;
+  left: 960px;
+  top: 582px;
+}
+.group-27 {
+  width: 222px;
+  height: 83px;
+  position: static;
+}
+.frame-31 {
+  opacity: 0.5;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1009px;
+  top: 621px;
+}
+.next {
+  color: var(--gray-6, #f2f2f2);
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.arrow-back-outline-1-1 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  overflow: hidden;
+}
+.layer-2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.rahasia-plant {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: 990px;
+  top: 665px;
+}
+.group-26 {
+  width: 213px;
+  height: 83px;
+  position: static;
+}
+.frame-312 {
+  opacity: 0.5;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 694px;
+  top: 619px;
+}
+.arrow-back-outline-1-12 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+}
+.layer-22 {
+  height: auto;
+  position: absolute;
+  left: 5.33px;
+  top: 6.66px;
+  overflow: visible;
+}
+.previous {
+  color: var(--gray-1, #333333);
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.kaktus-plant {
+  color: #156963;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: 699px;
+  top: 663px;
+}
+.frame-8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1168px;
+  position: absolute;
+  left: 56px;
+  top: 40px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  gap: 83px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo2 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: static;
+}
+.polygon-1 {
+  border-radius: 0px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.p {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Nunito-Black", sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  position: absolute;
+  left: 14px;
+  top: 10px;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.search {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.cart {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame2 {
+  background: #ffffff;
+  padding: 8px 20px 8px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 111px;
+  position: relative;
+}
+.sign-up {
+  color: #156963;
+  text-align: center;
+  font-family: "Nunito-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.frame3 {
+  background: #156963;
+  padding: 8px 20px 8px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 111px;
+  position: relative;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Nunito-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.group-25 {
+  position: absolute;
+  inset: 0;
+}
+.frame-24 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 79px;
+  top: 1558.73px;
+}
+.buy-more-plants-it-helps-you-to-be-relaxed {
+  color: var(--kq-black, #2c1500);
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 56px;
+  font-weight: 700;
+  position: relative;
+  width: 522px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-morbi-gravida-gravida-aliquam-pellentesque-et-lobortis-nisl-sed-et-mauris-justo-nulla-eu-enim-non-mauris-maximus-dignissim-maecenas-vitae-eros-sapien-quisque-pellentesque-tempus-dignissim {
+  color: var(--kq-black, #2c1500);
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  opacity: 0.8;
+  position: relative;
+  width: 506.69px;
+}
+.pic-1 {
+  width: 568px;
+  height: 250px;
+  position: absolute;
+  left: 58px;
+  top: 1900.73px;
+  overflow: visible;
+}
+.pic-2 {
+  width: 513px;
+  height: 609.9px;
+  position: absolute;
+  left: 710px;
+  top: 1549px;
+  overflow: visible;
+}
+.group-70 {
+  position: absolute;
+  inset: 0;
+}
+.line {
+  opacity: 0.3;
+  width: 1280px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 2679px;
+  overflow: visible;
+}
+.rectangle-19 {
+  width: 1280px;
+  height: 268px;
+  position: absolute;
+  left: 0px;
+  top: 2679px;
+}
+.frame-71 {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 167px;
+  top: 2739px;
+}
+.group-62 {
+  flex-shrink: 0;
+  width: 282px;
+  height: 137px;
+  position: static;
+}
+.footer-logo {
+  width: 112px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.plantku {
+  color: var(--akana-green, #156963);
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.group-58 {
+  width: 282px;
+  height: 89px;
+  position: static;
+}
+.plantku-house {
+  color: var(--gray-1, #333333);
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 48px;
+}
+.jl-laksda-adisucipto-no-51-demangan-kec-depok-kota-yogyakarta-daerah-istimewa-yogyakarta-55282 {
+  color: var(--gray-2, #4f4f4f);
+  text-align: left;
+  font-family: "WorkSans-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 77px;
+  width: 282px;
+}
+.group-60 {
+  flex-shrink: 0;
+  width: 95px;
+  height: 82px;
+  position: static;
+}
+.perusahaan {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 362px;
+  top: 0px;
+}
+.group-59 {
+  width: 95px;
+  height: 46px;
+  position: static;
+}
+.tentang-kami {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 362px;
+  top: 36px;
+}
+.hubungi-kami {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 362px;
+  top: 66px;
+}
+.frame-61 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.produk {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-59 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.tanaman {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.tanaman-lain {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-70 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.berlangganan-email-kami {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.group-69 {
+  flex-shrink: 0;
+  width: 234px;
+  height: 32px;
+  position: static;
+}
+.rectangle-20 {
+  border-radius: 2px;
+  border-style: solid;
+  border-color: var(--gray-6, #f2f2f2);
+  border-width: 1px;
+  width: 234px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 30px;
+}
+.masukan-alamat-email {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  opacity: 0.5;
+  position: absolute;
+  left: 13px;
+  top: 38px;
+}
+.btn {
+  background: var(--akana-green, #156963);
+  border-radius: 2px;
+  padding: 4px 12px 4px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  backdrop-filter: var(--akana-blur-backdrop-filter, blur(5px));
+}
+.submit {
+  color: var(--white, #ffffff);
+  text-align: center;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 8px;
+  line-height: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.bg-get {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-8 {
+  background: #f3f4f6;
+  width: 1168px;
+  height: 360px;
+  position: absolute;
+  left: 56px;
+  top: 2239px;
+}
+.mask-group {
+  width: 480px;
+  height: 360px;
+  position: absolute;
+  left: 744px;
+  top: 2239px;
+  overflow: visible;
+}
+.frame-9 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 583px;
+  position: absolute;
+  left: 153px;
+  top: 2327px;
+}
+.frame4 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.get-your-favourites-plant-on-our-shop-now {
+  color: var(--kq-black, #2c1500);
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 56px;
+  font-weight: 700;
+  position: relative;
+  width: 585px;
+}
+.frame5 {
+  background: var(--akana-green, #156963);
+  border-style: solid;
+  border-color: var(--akana-green, #156963);
+  border-width: 1px;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 152px;
+  position: relative;
+}
+.visit-shop {
+  color: var(--akana-bg, #fafefe);
+  text-align: center;
+  font-family: "Nunito-Bold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.group-24 {
+  position: absolute;
+  inset: 0;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 56px;
+  top: 1117px;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1168px;
+  position: relative;
+}
+.featured-plants {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+}
+.group-17 {
+  flex-shrink: 0;
+  width: 130px;
+  height: 31px;
+  position: static;
+}
+.frame-13 {
+  background: var(--white, #ffffff);
+  border-style: solid;
+  border-color: var(--gray-5, #e0e0e0);
+  border-width: 1px;
+  padding: 8px 12px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 1038px;
+  top: 0px;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cheaper-first {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: relative;
+}
+.arrow-down {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: visible;
+}
+.vector-2 {
+  flex-shrink: 0;
+  width: 1168px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.group-19 {
+  width: 217px;
+  height: 281px;
+  position: static;
+}
+.photo-1 {
+  width: 217px;
+  height: 217px;
+  position: absolute;
+  left: 56px;
+  top: 1188px;
+  overflow: visible;
+}
+.group-18 {
+  width: 110px;
+  height: 48px;
+  position: static;
+}
+.kaktus-plants {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 109px;
+  top: 1421px;
+}
+.idr-85-000 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 119px;
+  top: 1449px;
+}
+.group-20 {
+  width: 217px;
+  height: 281px;
+  position: static;
+}
+.photo-2 {
+  width: 217px;
+  height: 217px;
+  position: absolute;
+  left: 293px;
+  top: 1188px;
+  overflow: visible;
+}
+.group-182 {
+  width: 115px;
+  height: 48px;
+  position: static;
+}
+.landak-plants {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 344px;
+  top: 1421px;
+}
+.idr-105-000 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 353px;
+  top: 1449px;
+}
+.group-21 {
+  width: 217px;
+  height: 281px;
+  position: static;
+}
+.photo-3 {
+  width: 217px;
+  height: 217px;
+  position: absolute;
+  left: 530px;
+  top: 1188px;
+  overflow: visible;
+}
+.group-183 {
+  width: 139px;
+  height: 48px;
+  position: static;
+}
+.kecubung-plants {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 569px;
+  top: 1421px;
+}
+.idr-85-0002 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 593px;
+  top: 1449px;
+}
+.group-22 {
+  width: 217px;
+  height: 281px;
+  position: static;
+}
+.photo-4 {
+  width: 217px;
+  height: 217px;
+  position: absolute;
+  left: 767px;
+  top: 1188px;
+  overflow: visible;
+}
+.kecubung-plants2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 806px;
+  top: 1421px;
+}
+.idr-85-0003 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 830px;
+  top: 1449px;
+}
+.group-23 {
+  width: 217px;
+  height: 281px;
+  position: static;
+}
+.photo-5 {
+  width: 217px;
+  height: 217px;
+  position: absolute;
+  left: 1004px;
+  top: 1188px;
+  overflow: visible;
+}
+.kecubung-plants3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1043px;
+  top: 1421px;
+}
+.idr-85-0004 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 1067px;
+  top: 1449px;
+}
